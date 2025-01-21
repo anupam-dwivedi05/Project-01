@@ -1,4 +1,4 @@
 # Project-01
 My first project
 <br>
-Auther - Anupam dwivedi
+Auther - Anupam (yaksh)
